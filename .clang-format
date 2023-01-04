@@ -1,0 +1,15 @@
+BasedOnStyle: Google
+AccessModifierOffset: "-2"
+AlignTrailingComments: "true"
+AllowAllParametersOfDeclarationOnNextLine: "false"
+AlwaysBreakTemplateDeclarations: "Yes"
+BreakBeforeBraces: Attach
+ColumnLimit: "120"
+BreakConstructorInitializers: AfterColon
+ConstructorInitializerAllOnOneLineOrOnePerLine: "true"
+IncludeBlocks: Regroup
+IndentPPDirectives: AfterHash
+IndentWidth: "2"
+NamespaceIndentation: All
+BreakBeforeBinaryOperators: All
+BreakBeforeTernaryOperators: "true"

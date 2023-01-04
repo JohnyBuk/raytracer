@@ -1,0 +1,6 @@
+[submodule "3rd-party/PhysX"]
+	path = 3rd-party/PhysX
+	url = https://git.qt.io/jokarlss/PhysX.git
+[submodule "submodules/bullet3"]
+	path = submodules/bullet3
+	url = https://github.com/bulletphysics/bullet3.git
